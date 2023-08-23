@@ -1,3 +1,3 @@
 This program starts with cars that have randomized brains and through neuroevolution learns to go around the track. You can view statistics about their progression in the "Info" tab and you can use the "Track" tab to make your own track.
 
-In the "track" tab you can press space to start creating the track. Use your mouse to draw the track and press space and it will connect the end of the track back to the start. You can then press "save" which will set the current track what you made. You can press download to so that your track is saved even when you close the program and reopen it.
+In the "track" tab you can press space to start creating the track. Use your mouse to draw the track and press space and it will connect the end of the track back to the start. You can then press "save" which will set the current track what you made. You can press save and then download to so that your track is saved even when you close the program and reopen it.
